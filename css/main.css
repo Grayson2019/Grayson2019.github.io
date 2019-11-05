@@ -419,13 +419,13 @@ img::-moz-selection {
     color: #a6a6a6;
     text-decoration: underline; 
   }
-  .footer__ a:hover {
+  .footer__copyright a:hover {
     color: #7b0f19; 
   }
 
   .avatar,
   .logo {
-    border-radius: 50%;
+    border-radius: 100%;
     border: 3px solid #FFF;
     box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.3); 
   }
